@@ -1,7 +1,12 @@
-# mit_kriptoloji
+***
+    "Yüksel Türk, senin için yüksekliğin hududu yoktur. İşte parola budur." 
+                                                Gazi Mustafa Kemal ATATÜRK
+                                                      11 Aralık 1935
+***
+
 MİT Kriptoloji Soru Çözümlerini içeren repo
 
-Cevapların kurum tarafından yayınlandığında, çözümleri bu repoya eklenecektir.
+Cevaplar kurum tarafından yayınlandığında, çözümleri bu repoya eklenecektir.
 
 
 
